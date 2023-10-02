@@ -1,4 +1,4 @@
-# README for Recurrent Models Comparison on IMDB Sentiment Analysis
+# Recurrent Models Comparison on IMDB Sentiment Analysis
 
 ## Overview
 This code aims to compare the performance of three popular recurrent neural network (RNN) architectures—SimpleRNN, GRU, and LSTM—on the task of sentiment analysis using the IMDB dataset.
